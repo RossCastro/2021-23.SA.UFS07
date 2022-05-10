@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/RossCastro/2021-23.SA.UFS07/compare/v1.3.0...v1.4.0) (2022-05-10)
+
+
+### Features
+
+* deploy comment ([ae24767](https://github.com/RossCastro/2021-23.SA.UFS07/commit/ae247670f4f308c7cef007cd2a12939e5c711c60))
+
 ## [1.3.0](https://github.com/RossCastro/2021-23.SA.UFS07/compare/v1.2.1...v1.3.0) (2022-05-10)
 
 
