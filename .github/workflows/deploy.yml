@@ -17,11 +17,11 @@ jobs:
           path: dist
       - name: List files in the repository
         run: |
-          ls -la
+          ls -la 
           ls -la dist
           cat dist/CHANGELOG.md
       - name: Deploy on Surge.sh
         env:
-          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }} #ciao
           SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
         run: npx -yes surge ./dist healthy-fowl.surge.sh
