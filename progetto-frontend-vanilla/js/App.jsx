@@ -1,5 +1,5 @@
-import React from "react";
-import {Button} from "test-1-react/atoms/button/Button"
+import React from "test-1-ross";
+import {Button} from "test-1-ross/atoms/atoms/button/Button"
 
 const App = () => ( 
     <div>
